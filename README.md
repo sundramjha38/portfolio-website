@@ -30,7 +30,6 @@ A simple portfolio website built with HTML, CSS, and JavaScript to showcase proj
 
 ```
 ## Project Structure
-```
 portfolio-website/
 ├── html/
 │   └── index.html     # Main HTML file
@@ -40,6 +39,7 @@ portfolio-website/
     ├── userasset/     # Profile images and decorative icons
     ├── stack/         # Technology icons
     └── projects/      # Project background images
+```
 ```
 
 ## Demo Video
