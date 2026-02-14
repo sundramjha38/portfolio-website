@@ -27,9 +27,7 @@ A simple portfolio website built with HTML, CSS, and JavaScript to showcase proj
 3. Customize the content with your own information
 
 ## Project Structure
-
 ```
-## Project Structure
 portfolio-website/
 ├── html/
 │   └── index.html     # Main HTML file
@@ -40,9 +38,11 @@ portfolio-website/
     ├── stack/         # Technology icons
     └── projects/      # Project background images
 ```
-```
 
 ## Demo Video
 
+https://github.com/sundramjha38/portfolio-website/raw/main/assets/userasset/portfolio-demo.mp4
+
+---
 
 Made with HTML, CSS & JavaScript
