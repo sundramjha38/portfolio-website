@@ -41,8 +41,7 @@ portfolio-website/
 
 ## Demo Video
 
-https://github.com/sundramjha38/portfolio-website/raw/main/assets/userasset/portfolio-demo.mp4
 
----
+https://github.com/sundramjha38/portfolio-website/raw/main/assets/userasset/portfolio-demo.mp4
 
 Made with HTML, CSS & JavaScript
