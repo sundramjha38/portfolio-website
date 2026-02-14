@@ -39,11 +39,5 @@ portfolio-website/
     └── projects/      # Project background images
 ```
 
-## Demo Video
-
-
-## Demo Video
-
-<video src="https://github.com/sundramjha38/portfolio-website/raw/main/assets/userasset/portfolio-demo.mp4" controls width="100%"></video>
 
 Made with HTML, CSS & JavaScript
