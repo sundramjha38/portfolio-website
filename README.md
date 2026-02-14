@@ -29,20 +29,20 @@ A simple portfolio website built with HTML, CSS, and JavaScript to showcase proj
 ## Project Structure
 
 ```
+## Project Structure
+```
 portfolio-website/
-├── index.html
+├── html/
+│   └── index.html     # Main HTML file
 ├── CSS/
-│   └── index.css
+│   └── index.css      # Stylesheet
 └── assets/
-    ├── userasset/      # Profile images and decorative icons
-    ├── stack/          # Technology icons
-    └── projects/       # Project background images
+    ├── userasset/     # Profile images and decorative icons
+    ├── stack/         # Technology icons
+    └── projects/      # Project background images
 ```
 
 ## Demo Video
 
-[Insert your video recording link here]
-
----
 
 Made with HTML, CSS & JavaScript
